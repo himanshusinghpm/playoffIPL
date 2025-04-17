@@ -19,7 +19,7 @@
     },
     {
         "id": "PBKS",
-        "name": "Punjab Kings XI",
+        "name": "Punjab Kings",
         "shortName": "PBKS",
         "primaryColor": "#009C7B",
         "secondaryColor": "#009C7B",
@@ -28,7 +28,7 @@
     },
     {
         "id": "RCB",
-        "name": "Royal Challengers Bangalore",
+        "name": "Royal Challengers Bengaluru",
         "shortName": "RCB",
         "primaryColor": "#FFD700",
         "secondaryColor": "#FFD700",
