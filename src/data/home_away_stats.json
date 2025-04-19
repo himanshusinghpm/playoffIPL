@@ -1,0 +1,52 @@
+[
+    {
+      "teamId": "LSG",
+      "homeWinRate": 0.5,
+      "awayWinRate": 0.667
+    },
+    {
+      "teamId": "DC",
+      "homeWinRate": 0.75,
+      "awayWinRate": 0.667
+    },
+    {
+      "teamId": "PBKS",
+      "homeWinRate": 0.667,
+      "awayWinRate": 0.75
+    },
+    {
+      "teamId": "GT",
+      "homeWinRate": 0.75,
+      "awayWinRate": 0.667
+    },
+    {
+      "teamId": "RCB",
+      "homeWinRate": 0,
+      "awayWinRate": 1
+    },
+    {
+      "teamId": "KKR",
+      "homeWinRate": 0.333,
+      "awayWinRate": 0.5
+    },
+    {
+      "teamId": "SRH",
+      "homeWinRate": 0.5,
+      "awayWinRate": 0
+    },
+    {
+      "teamId": "MI",
+      "homeWinRate": 0.667,
+      "awayWinRate": 0.25
+    },
+    {
+      "teamId": "RR",
+      "homeWinRate": 0.333,
+      "awayWinRate": 0.25
+    },
+    {
+      "teamId": "CSK",
+      "homeWinRate": 0.25,
+      "awayWinRate": 0.333
+    }
+  ]

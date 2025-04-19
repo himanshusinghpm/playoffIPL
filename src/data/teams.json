@@ -1,0 +1,92 @@
+[
+    {
+        "id": "LSG",
+        "name": "Lucknow Super Giants",
+        "shortName": "LSG",
+        "primaryColor": "#009C7B",
+        "secondaryColor": "#009C7B",
+        "homeVenue": "Lucknow",
+        "captainId": "Rishabh Pant"
+    },
+    {
+        "id": "SRH",
+        "name": "Sunrisers Hyderabad",
+        "shortName": "SRH",
+        "primaryColor": "#FFD700",
+        "secondaryColor": "#FFD700",
+        "homeVenue": "Hyderabad",
+        "captainId": "Pat Cummins"
+    },
+    {
+        "id": "PBKS",
+        "name": "Punjab Kings",
+        "shortName": "PBKS",
+        "primaryColor": "#009C7B",
+        "secondaryColor": "#009C7B",
+        "homeVenue": "Chandigarh",
+        "captainId": "Shreyas Iyer"
+    },
+    {
+        "id": "RCB",
+        "name": "Royal Challengers Bengaluru",
+        "shortName": "RCB",
+        "primaryColor": "#FFD700",
+        "secondaryColor": "#FFD700",
+        "homeVenue": "Bangalore",
+        "captainId": "Rajat Patidar"
+    },
+    {
+        "id": "GT",
+        "name": "Gujarat Titans",
+        "shortName": "GT",
+        "primaryColor": "#009C7B",
+        "secondaryColor": "#009C7B",
+        "homeVenue": "Ahmedabad",
+        "captainId": "Shubhman Gill"
+    },
+    {
+        "id": "MI",
+        "name": "Mumbai Indians",
+        "shortName": "MI",
+        "primaryColor": "#FFD700",
+        "secondaryColor": "#FFD700",
+        "homeVenue": "Mumbai",
+        "captainId": "Hardik Pandya"
+    },
+    {
+        "id": "RR",
+        "name": "Rajasthan Royals",
+        "shortName": "RR",
+        "primaryColor": "#009C7B",
+        "secondaryColor": "#009C7B",
+        "homeVenue": "Jaipur",
+        "captainId": "Sanju Samson"
+    },
+    {
+        "id": "CSK",
+        "name": "Chennai Super Kings",
+        "shortName": "CSK",
+        "primaryColor": "#FFD700",
+        "secondaryColor": "#FFD700",
+        "homeVenue": "Chennai",
+        "captainId": "Mahendra Singh Dhoni"
+    },
+    {
+        "id": "DC",
+        "name": "Delhi Capitals",
+        "shortName": "DC",
+        "primaryColor": "#009C7B",
+        "secondaryColor": "#009C7B",
+        "homeVenue": "Delhi",
+        "captainId": "Axar Patel"
+    },
+    {
+        "id": "KKR",
+        "name": "Kolkata Knight Riders",
+        "shortName": "KKR",
+        "primaryColor": "#FFD700",
+        "secondaryColor": "#FFD700",
+        "homeVenue": "Kolkata",
+        "captainId": "Ajinkya Rahane"
+    }
+]

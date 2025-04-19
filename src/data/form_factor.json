@@ -1,0 +1,42 @@
+[
+    {
+      "teamId": "LSG",
+      "recentForm": ["W","L","W","W","W"]
+    },
+    {
+      "teamId": "DC",
+      "recentForm": ["L","W","L","W","W"]
+    },
+    {
+      "teamId": "PBKS",
+      "recentForm": ["W","W","L","W","L"]
+    },
+    {
+      "teamId": "GT",
+      "recentForm": ["W","L","W","W","W"]
+    },
+    {
+      "teamId": "RCB",
+      "recentForm": ["L","W","L","W","L"]
+    },
+    {
+      "teamId": "KKR",
+      "recentForm": ["L","W","L","W","L"]
+    },
+    {
+      "teamId": "SRH",
+      "recentForm": ["L","W","L","L","L"]
+    },
+    {
+      "teamId": "MI",
+      "recentForm": ["W","W","L","L","L"]
+    },
+    {
+      "teamId": "RR",
+      "recentForm": ["L","L","L","L","W"]
+    },
+    {
+      "teamId": "CSK",
+      "recentForm": ["W","L","L","L","L"]
+    }
+  ]

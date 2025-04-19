@@ -1,0 +1,520 @@
+[
+  {
+    "matchId": "ipl2025_1",
+    "homeTeam": "KKR",
+    "awayTeam": "RCB",
+    "venue": "Eden Gardens",
+    "date": "22/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_2",
+    "homeTeam": "SRH",
+    "awayTeam": "RR",
+    "venue": "Rajiv Gandhi International Stadium",
+    "date": "23/03/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_3",
+    "homeTeam": "CSK",
+    "awayTeam": "MI",
+    "venue": "MA Chidambaram Stadium",
+    "date": "23/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_4",
+    "homeTeam": "DC",
+    "awayTeam": "LSG",
+    "venue": "Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "date": "24/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_5",
+    "homeTeam": "GT",
+    "awayTeam": "PBKS",
+    "venue": "Narendra Modi Stadium",
+    "date": "25/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_6",
+    "homeTeam": "RR",
+    "awayTeam": "KKR",
+    "venue": "ACA Stadium",
+    "date": "26/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_7",
+    "homeTeam": "SRH",
+    "awayTeam": "LSG",
+    "venue": "Rajiv Gandhi International Stadium",
+    "date": "27/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_8",
+    "homeTeam": "CSK",
+    "awayTeam": "RCB",
+    "venue": "MA Chidambaram Stadium",
+    "date": "28/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_9",
+    "homeTeam": "GT",
+    "awayTeam": "MI",
+    "venue": "Narendra Modi Stadium",
+    "date": "29/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_10",
+    "homeTeam": "DC",
+    "awayTeam": "SRH",
+    "venue": "Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "date": "30/03/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_11",
+    "homeTeam": "RR",
+    "awayTeam": "CSK",
+    "venue": "ACA Stadium",
+    "date": "30/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_12",
+    "homeTeam": "MI",
+    "awayTeam": "KKR",
+    "venue": "Wankhede Stadium",
+    "date": "31/03/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_13",
+    "homeTeam": "LSG",
+    "awayTeam": "PBKS",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "date": "01/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_14",
+    "homeTeam": "RCB",
+    "awayTeam": "GT",
+    "venue": "M Chinnaswamy Stadium",
+    "date": "02/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_15",
+    "homeTeam": "KKR",
+    "awayTeam": "SRH",
+    "venue": "Eden Gardens",
+    "date": "03/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_16",
+    "homeTeam": "LSG",
+    "awayTeam": "MI",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "date": "04/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_17",
+    "homeTeam": "CSK",
+    "awayTeam": "DC",
+    "venue": "MA Chidambaram Stadium",
+    "date": "05/04/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_18",
+    "homeTeam": "PBKS",
+    "awayTeam": "RR",
+    "venue": "New PCA Stadium",
+    "date": "05/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_20",
+    "homeTeam": "SRH",
+    "awayTeam": "GT",
+    "venue": "Rajiv Gandhi International Stadium",
+    "date": "06/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_21",
+    "homeTeam": "MI",
+    "awayTeam": "RCB",
+    "venue": "Wankhede Stadium",
+    "date": "07/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_19",
+    "homeTeam": "KKR",
+    "awayTeam": "LSG",
+    "venue": "Eden Gardens",
+    "date": "08/04/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_22",
+    "homeTeam": "PBKS",
+    "awayTeam": "CSK",
+    "venue": "New PCA Stadium",
+    "date": "08/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_23",
+    "homeTeam": "GT",
+    "awayTeam": "RR",
+    "venue": "Narendra Modi Stadium",
+    "date": "09/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_24",
+    "homeTeam": "RCB",
+    "awayTeam": "DC",
+    "venue": "M Chinnaswamy Stadium",
+    "date": "10/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_25",
+    "homeTeam": "CSK",
+    "awayTeam": "KKR",
+    "venue": "MA Chidambaram Stadium",
+    "date": "11/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_26",
+    "homeTeam": "LSG",
+    "awayTeam": "GT",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "date": "12/04/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_27",
+    "homeTeam": "SRH",
+    "awayTeam": "PBKS",
+    "venue": "Rajiv Gandhi International Stadium",
+    "date": "12/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_28",
+    "homeTeam": "RR",
+    "awayTeam": "RCB",
+    "venue": "Sawai Mansingh Stadium",
+    "date": "13/04/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_29",
+    "homeTeam": "DC",
+    "awayTeam": "MI",
+    "venue": "Arun Jaitley Stadium",
+    "date": "13/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_30",
+    "homeTeam": "LSG",
+    "awayTeam": "CSK",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "date": "14/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_31",
+    "homeTeam": "PBKS",
+    "awayTeam": "KKR",
+    "venue": "New PCA Stadium",
+    "date": "15/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_32",
+    "homeTeam": "DC",
+    "awayTeam": "RR",
+    "venue": "Arun Jaitley Stadium",
+    "date": "16/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_33",
+    "homeTeam": "MI",
+    "awayTeam": "SRH",
+    "venue": "Wankhede Stadium",
+    "date": "17/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_34",
+    "homeTeam": "RCB",
+    "awayTeam": "PBKS",
+    "venue": "M Chinnaswamy Stadium",
+    "date": "18/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_35",
+    "homeTeam": "GT",
+    "awayTeam": "DC",
+    "venue": "Narendra Modi Stadium",
+    "date": "19/04/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_36",
+    "homeTeam": "RR",
+    "awayTeam": "LSG",
+    "venue": "Sawai Mansingh Stadium",
+    "date": "19/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_37",
+    "homeTeam": "PBKS",
+    "awayTeam": "RCB",
+    "venue": "New PCA Stadium",
+    "date": "20/04/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_38",
+    "homeTeam": "MI",
+    "awayTeam": "CSK",
+    "venue": "Wankhede Stadium",
+    "date": "20/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_39",
+    "homeTeam": "KKR",
+    "awayTeam": "GT",
+    "venue": "Eden Gardens",
+    "date": "21/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_40",
+    "homeTeam": "LSG",
+    "awayTeam": "DC",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "date": "22/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_41",
+    "homeTeam": "SRH",
+    "awayTeam": "MI",
+    "venue": "Rajiv Gandhi International Stadium",
+    "date": "23/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_42",
+    "homeTeam": "RCB",
+    "awayTeam": "RR",
+    "venue": "M Chinnaswamy Stadium",
+    "date": "24/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_43",
+    "homeTeam": "CSK",
+    "awayTeam": "SRH",
+    "venue": "MA Chidambaram Stadium",
+    "date": "25/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_44",
+    "homeTeam": "KKR",
+    "awayTeam": "PBKS",
+    "venue": "Eden Gardens",
+    "date": "26/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_45",
+    "homeTeam": "MI",
+    "awayTeam": "LSG",
+    "venue": "Wankhede Stadium",
+    "date": "27/04/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_46",
+    "homeTeam": "DC",
+    "awayTeam": "RCB",
+    "venue": "Arun Jaitley Stadium",
+    "date": "27/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_47",
+    "homeTeam": "RR",
+    "awayTeam": "GT",
+    "venue": "Sawai Mansingh Stadium",
+    "date": "28/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_48",
+    "homeTeam": "DC",
+    "awayTeam": "KKR",
+    "venue": "Arun Jaitley Stadium",
+    "date": "29/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_49",
+    "homeTeam": "CSK",
+    "awayTeam": "PBKS",
+    "venue": "MA Chidambaram Stadium",
+    "date": "30/04/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_50",
+    "homeTeam": "RR",
+    "awayTeam": "MI",
+    "venue": "Sawai Mansingh Stadium",
+    "date": "01/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_51",
+    "homeTeam": "GT",
+    "awayTeam": "SRH",
+    "venue": "Narendra Modi Stadium",
+    "date": "02/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_52",
+    "homeTeam": "RCB",
+    "awayTeam": "CSK",
+    "venue": "M Chinnaswamy Stadium",
+    "date": "03/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_53",
+    "homeTeam": "KKR",
+    "awayTeam": "RR",
+    "venue": "Eden Gardens",
+    "date": "04/05/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_54",
+    "homeTeam": "PBKS",
+    "awayTeam": "LSG",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "date": "04/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_55",
+    "homeTeam": "SRH",
+    "awayTeam": "DC",
+    "venue": "Rajiv Gandhi International Stadium",
+    "date": "05/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_56",
+    "homeTeam": "MI",
+    "awayTeam": "GT",
+    "venue": "Wankhede Stadium",
+    "date": "06/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_57",
+    "homeTeam": "KKR",
+    "awayTeam": "CSK",
+    "venue": "Eden Gardens",
+    "date": "07/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_58",
+    "homeTeam": "PBKS",
+    "awayTeam": "DC",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "date": "08/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_59",
+    "homeTeam": "LSG",
+    "awayTeam": "RCB",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "date": "09/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_60",
+    "homeTeam": "SRH",
+    "awayTeam": "KKR",
+    "venue": "Rajiv Gandhi International Stadium",
+    "date": "10/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_61",
+    "homeTeam": "PBKS",
+    "awayTeam": "MI",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "date": "11/05/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_62",
+    "homeTeam": "DC",
+    "awayTeam": "GT",
+    "venue": "Arun Jaitley Stadium",
+    "date": "11/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_63",
+    "homeTeam": "CSK",
+    "awayTeam": "RR",
+    "venue": "MA Chidambaram Stadium",
+    "date": "12/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_64",
+    "homeTeam": "RCB",
+    "awayTeam": "SRH",
+    "venue": "M Chinnaswamy Stadium",
+    "date": "13/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_65",
+    "homeTeam": "GT",
+    "awayTeam": "LSG",
+    "venue": "Narendra Modi Stadium",
+    "date": "14/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_66",
+    "homeTeam": "MI",
+    "awayTeam": "DC",
+    "venue": "Wankhede Stadium",
+    "date": "15/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_67",
+    "homeTeam": "RR",
+    "awayTeam": "PBKS",
+    "venue": "Sawai Mansingh Stadium",
+    "date": "16/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_68",
+    "homeTeam": "RCB",
+    "awayTeam": "KKR",
+    "venue": "M Chinnaswamy Stadium",
+    "date": "17/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_69",
+    "homeTeam": "GT",
+    "awayTeam": "CSK",
+    "venue": "Narendra Modi Stadium",
+    "date": "18/05/2025 10:00"
+  },
+  {
+    "matchId": "ipl2025_70",
+    "homeTeam": "LSG",
+    "awayTeam": "SRH",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick",
+    "date": "18/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_71",
+    "homeTeam": "To be announced",
+    "awayTeam": "To be announced",
+    "venue": "Rajiv Gandhi International Stadium",
+    "date": "20/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_72",
+    "homeTeam": "To be announced",
+    "awayTeam": "To be announced",
+    "venue": "Rajiv Gandhi International Stadium",
+    "date": "21/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_73",
+    "homeTeam": "To be announced",
+    "awayTeam": "To be announced",
+    "venue": "Eden Gardens",
+    "date": "23/05/2025 14:00"
+  },
+  {
+    "matchId": "ipl2025_74",
+    "homeTeam": "To be announced",
+    "awayTeam": "To be announced",
+    "venue": "Eden Gardens",
+    "date": "25/05/2025 14:00"
+  }
+]
