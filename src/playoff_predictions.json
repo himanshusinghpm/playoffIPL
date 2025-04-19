@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-04-20 01:54:17",
+  "timestamp": "2025-04-20 02:02:41",
   "qualification_probabilities": {
-    "GT": 0.9375,
-    "PBKS": 0.8207,
-    "DC": 0.8102,
-    "LSG": 0.6506,
-    "RCB": 0.4553,
-    "KKR": 0.2097,
-    "MI": 0.1143,
-    "RR": 0.0008,
-    "CSK": 0.0005,
+    "GT": 0.9403,
+    "PBKS": 0.8192,
+    "DC": 0.8105,
+    "LSG": 0.6524,
+    "RCB": 0.4542,
+    "KKR": 0.2114,
+    "MI": 0.1098,
+    "RR": 0.0009,
+    "CSK": 0.0009,
     "SRH": 0.0004
   },
   "expected_cutoff": 15,
@@ -20,7 +20,7 @@
       "expected_cutoff": 15,
       "points_needed": 5,
       "wins_needed": 3,
-      "qualification_probability": 0.9375
+      "qualification_probability": 0.9403
     },
     "DC": {
       "team": "DC",
@@ -28,7 +28,7 @@
       "expected_cutoff": 15,
       "points_needed": 5,
       "wins_needed": 3,
-      "qualification_probability": 0.8102
+      "qualification_probability": 0.8105
     },
     "PBKS": {
       "team": "PBKS",
@@ -36,7 +36,7 @@
       "expected_cutoff": 15,
       "points_needed": 5,
       "wins_needed": 3,
-      "qualification_probability": 0.8207
+      "qualification_probability": 0.8192
     },
     "LSG": {
       "team": "LSG",
@@ -44,7 +44,7 @@
       "expected_cutoff": 15,
       "points_needed": 5,
       "wins_needed": 3,
-      "qualification_probability": 0.6506
+      "qualification_probability": 0.6524
     },
     "RCB": {
       "team": "RCB",
@@ -52,7 +52,7 @@
       "expected_cutoff": 15,
       "points_needed": 7,
       "wins_needed": 4,
-      "qualification_probability": 0.4553
+      "qualification_probability": 0.4542
     },
     "KKR": {
       "team": "KKR",
@@ -60,7 +60,7 @@
       "expected_cutoff": 15,
       "points_needed": 9,
       "wins_needed": 5,
-      "qualification_probability": 0.2097
+      "qualification_probability": 0.2114
     },
     "MI": {
       "team": "MI",
@@ -68,7 +68,7 @@
       "expected_cutoff": 15,
       "points_needed": 9,
       "wins_needed": 5,
-      "qualification_probability": 0.1143
+      "qualification_probability": 0.1098
     },
     "RR": {
       "team": "RR",
@@ -76,7 +76,7 @@
       "expected_cutoff": 15,
       "points_needed": 11,
       "wins_needed": 6,
-      "qualification_probability": 0.0008
+      "qualification_probability": 0.0009
     },
     "SRH": {
       "team": "SRH",
@@ -92,7 +92,7 @@
       "expected_cutoff": 15,
       "points_needed": 11,
       "wins_needed": 6,
-      "qualification_probability": 0.0005
+      "qualification_probability": 0.0009
     }
   }
 }
